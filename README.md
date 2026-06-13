@@ -1,4 +1,4 @@
-# AnalystLab-Africa
+# AnalystLab-Africa-Week-1
 First Internship Project at Analyst Lab Africa
 
 Data Cleaning & Preparation
